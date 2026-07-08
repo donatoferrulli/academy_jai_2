@@ -1,0 +1,2 @@
+1.Accoglienza del cliente;
+2.Richiesta carta di credito;
