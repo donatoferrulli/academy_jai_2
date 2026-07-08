@@ -2,7 +2,7 @@ Cose che fanno i docenti:
 
 1. preparano la lezione
 2. spiegano la lezione
-3. insegnare 
+3. gestire la classe 
 4. mettere i voti
 5. criticano costruttivamente
 6. guidano nello studio
