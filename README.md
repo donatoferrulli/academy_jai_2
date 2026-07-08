@@ -1,4 +1,21 @@
-# academy_jai_2
+siccome non sono una stronza lascio entrambe le liste 
+
+EROS RAMAZZOTI E CHAMPAGNE 
+
+Lista meccanico Cristiana:
+
+osservare macchina
+contro olio
+contro pressione gomme
+contro eventuali perdite
+verifica i freni
+controllo batteria
+prova lo sterzo
+controllo delle luci
+ascolto del motore
+breve test su strada 
+
+Lista meccanico Giuseppe:
 
 Controllo visivo generale della carrozzeria e delle perdite.
 Verifica del livello dell’olio motore.
