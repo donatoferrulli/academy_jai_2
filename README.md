@@ -1,3 +1,8 @@
+          _________
+      ___/  |   |  \___
+     /  _   |___|   _  \
+    /__/ \_________/ \__\
+       \_/         \_/
 siccome non sono una stronza lascio entrambe le liste 
 
 EROS RAMAZZOTI E CHAMPAGNE 
