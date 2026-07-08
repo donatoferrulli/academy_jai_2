@@ -12,6 +12,11 @@
 10. Fine controllo, la vettura è pronta per la consegna!
 10. Fine controllo, la vettura è pronta per la consegna
 # academy_jai_2
+          _________
+      ___/  |   |  \___
+     /  _   |___|   _  \
+    /__/ \_________/ \__\
+       \_/         \_/
 siccome non sono una stronza lascio entrambe le liste 
 
 EROS RAMAZZOTI E CHAMPAGNE 
@@ -51,3 +56,13 @@ ECCOMI
 * Metodo 7: Controllare cinghie, tubi e possibili perdite.
 * Metodo 8: Eseguire una diagnosi elettronica tramite centralina.
 * Metodo 9: Ispezionare sospensioni, sterzo e assetto del veicolo.
+controllare eventuali led di errori
+aprire il cofano
+controllare l'olio
+controlla i filtri dell'aria
+controllare la pressione
+controllare l'allineamento delle ruote
+controllare i dischi dei freni
+controllare l'olio dei freni
+controllare la trasmissione
+controllare la centralina
