@@ -1,5 +1,7 @@
 siccome non sono una stronza lascio entrambe le liste 
 
+EROS RAMAZZOTI E CHAMPAGNE 
+
 Lista meccanico Cristiana:
 
 osservare macchina
