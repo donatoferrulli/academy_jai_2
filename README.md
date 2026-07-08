@@ -12,12 +12,14 @@
 10. Fine controllo, la vettura è pronta per la consegna!
 10. Fine controllo, la vettura è pronta per la consegna
 # academy_jai_2
+=======
           _________
       ___/  |   |  \___
      /  _   |___|   _  \
     /__/ \_________/ \__\
        \_/         \_/
 siccome non sono una stronza lascio entrambe le liste 
+>>>>>>> 9646d8bf3c8360ac8e4c47bbdd1ba47248c39763
 
 1. controllo olio
 2. livello liquido rafreddameno
