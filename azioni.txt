@@ -1,0 +1,10 @@
+1. Mi sveglio;
+2. Faccio colazione;
+3. Mi lavo i denti;
+4. Mi vesto;
+5. Preparo da mangiare;
+6. Preparo lo zaino;
+7. Esco di casa;
+8. Vado in macchina;
+9. Arrivo a destinazione;
+10. Non trovo il parcheggio;
