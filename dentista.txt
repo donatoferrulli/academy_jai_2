@@ -1,0 +1,10 @@
+1.Accoglienza del cliente;
+2.Richiesta carta di credito;
+3. Controllo gengive;
+4. Controllo smalto denti;
+5.Controllo di Carie o lesioni;
+6.Esecuzione di radiografia (se necessaria);
+7.Fare il calco dei denti;
+8.Fissare prossimo appuntamento con il paziente;
+9.Apprezzamenti verso il cliente;
+10.Distinti saluti;
