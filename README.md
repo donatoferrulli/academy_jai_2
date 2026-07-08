@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-controllo pressione gomme
-analisi comportamento motore
-check usura gomme
-cambio olio
-test centralina
-verifica radiatore
-check elettronica interna
-controllo fanali
-analisi problemi software
-convergenza
-=======
 # Piacere so rmeccanico
 ---
 1. Iniziamo dallo scammare quanto più possibile il cliente;
@@ -21,5 +9,4 @@ convergenza
 7. Fecondazione assistita del cliente;
 8. Finto cambio olio e filtri;
 9. Bestemming;
-10. Fine controllo, la vettura è pronta per la consegna
->>>>>>> readme
+10. Fine controllo, la vettura è pronta per la consegna!
