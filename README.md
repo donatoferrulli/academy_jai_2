@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Piacere so rmeccanico
 ---
 1. Iniziamo dallo scammare quanto più possibile il cliente;
@@ -13,7 +14,43 @@
 10. Fine controllo, la vettura è pronta per la consegna
 =======
 # academy_jai_2
+=======
+          _________
+      ___/  |   |  \___
+     /  _   |___|   _  \
+    /__/ \_________/ \__\
+       \_/         \_/
+siccome non sono una stronza lascio entrambe le liste 
+>>>>>>> 9646d8bf3c8360ac8e4c47bbdd1ba47248c39763
 
+EROS RAMAZZOTI E CHAMPAGNE 
+
+Lista meccanico Cristiana:
+
+osservare macchina
+contro olio
+contro pressione gomme
+contro eventuali perdite
+verifica i freni
+controllo batteria
+prova lo sterzo
+controllo delle luci
+ascolto del motore
+breve test su strada 
+
+Lista meccanico Giuseppe:
+
+Controllo visivo generale della carrozzeria e delle perdite.
+Verifica del livello dell’olio motore.
+Controllo del liquido di raffreddamento.
+Verifica del liquido freni.
+Controllo della batteria.
+Ispezione di pneumatici e pressione gomme.
+Controllo di freni e pastiglie.
+Verifica di luci, fari e indicatori.
+Controllo di cinghie e filtri.
+Prova del motore e ascolto di eventuali rumori anomali.
+ECCOMI
 * Metodo 1: Controllare il livello e la qualità dell'olio motore.
 * Metodo 2: Verificare tutti i liquidi dell'auto (refrigerante, freni, lavavetri, ecc.).
 * Metodo 3: Controllare la pressione e l'usura dei pneumatici.
