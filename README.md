@@ -1,3 +1,4 @@
+
 # Piacere so rmeccanico
 ---
 1. Iniziamo dallo scammare quanto più possibile il cliente;
@@ -12,7 +13,6 @@
 10. Fine controllo, la vettura è pronta per la consegna!
 10. Fine controllo, la vettura è pronta per la consegna
 # academy_jai_2
-siccome non sono una stronza lascio entrambe le liste 
 
 EROS RAMAZZOTI E CHAMPAGNE 
 
