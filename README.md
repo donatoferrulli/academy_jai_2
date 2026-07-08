@@ -10,7 +10,6 @@
 8. ascolto motore
 9. utilizzo di uno strumento di diagnosi elettronica 
 10. controllo stato batteria
-321
 
 * Metodo 1: Controllare il livello e la qualità dell'olio motore.
 * Metodo 2: Verificare tutti i liquidi dell'auto (refrigerante, freni, lavavetri, ecc.).
