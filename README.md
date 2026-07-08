@@ -9,4 +9,4 @@
 * Metodo 7: Controllare cinghie, tubi e possibili perdite.
 * Metodo 8: Eseguire una diagnosi elettronica tramite centralina.
 * Metodo 9: Ispezionare sospensioni, sterzo e assetto del veicolo.
-* Metodo 10: Effettuare una prova su strada per rilevare anomalie.
+* Metodo 10: Effettuare una prova su strada per rilevare anomaliehhhhhhh.
