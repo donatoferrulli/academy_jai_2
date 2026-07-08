@@ -1,2 +1,6 @@
 1.Accoglienza del cliente;
 2.Richiesta carta di credito;
+
+
+5.Controllo di Carie o lesioni
+6.Esecuzione di radiografia (se necessaria)
