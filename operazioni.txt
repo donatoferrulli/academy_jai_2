@@ -1,0 +1,10 @@
+mi alzo
+mi lavo
+mi vesto
+Sveglio/Aspetto alberto
+Esco da casa
+Entro in macchina
+Faccio il passeggiero
+Cerco parcheggio
+Scendo dalla macchina
+Entro dalla porta dell'edificio.
