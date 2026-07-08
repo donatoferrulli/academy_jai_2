@@ -21,6 +21,17 @@
 siccome non sono una stronza lascio entrambe le liste 
 >>>>>>> 9646d8bf3c8360ac8e4c47bbdd1ba47248c39763
 
+1. controllo olio
+2. livello liquido rafreddameno
+3. bestemmiare
+4. controllo liquido freni
+5. controllo pressione pnreumatici
+6. controllo l'usura dei freni
+7. controllo funzionamento luci
+8. ascolto motore
+9. utilizzo di uno strumento di diagnosi elettronica 
+10. controllo stato batteria
+
 EROS RAMAZZOTI E CHAMPAGNE 
 
 Lista meccanico Cristiana:
@@ -58,13 +69,5 @@ ECCOMI
 * Metodo 7: Controllare cinghie, tubi e possibili perdite.
 * Metodo 8: Eseguire una diagnosi elettronica tramite centralina.
 * Metodo 9: Ispezionare sospensioni, sterzo e assetto del veicolo.
-controllare eventuali led di errori
-aprire il cofano
-controllare l'olio
-controlla i filtri dell'aria
-controllare la pressione
-controllare l'allineamento delle ruote
-controllare i dischi dei freni
-controllare l'olio dei freni
-controllare la trasmissione
-controllare la centralina
+* Metodo 10: Effettuare una prova su strada per rilevare anomaliehhhhhhh.
+* Metodo 11: Grazie e arriverci 
