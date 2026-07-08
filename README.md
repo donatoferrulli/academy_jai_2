@@ -1,5 +1,6 @@
 # academy_jai_2
 
+<<<<<<< HEAD
 controllare eventuali led di errori
 aprire il cofano
 controllare l'olio
